@@ -41,7 +41,7 @@ Kindly modify the files as needed.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aimalamiri/School-Library/issues).
+Feel free to check the [issues page](https://github.com/ramrod433/School-Library/issues).
 
 ## Show your support
 
