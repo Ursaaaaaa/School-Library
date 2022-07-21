@@ -1,4 +1,4 @@
-require_relative './nameable'
+require './nameable'
 
 class Person < Nameable
   attr_accessor :name, :age
@@ -15,6 +15,7 @@ class Person < Nameable
     @parent_permission = parent_permission
 
     @rentals = []
+
     super()
   end
 
