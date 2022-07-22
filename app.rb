@@ -41,7 +41,7 @@ class App
     @persons.each_with_index do |person, index|
       result = "[#{person.class.name}] ID: #{person.id}, Name: #{person.name}, Age: #{person.age}"
 
-      result = "#{index}) " + result if show_index
+      result = "#{index}) " * result if show_index
 
       puts result
     end
